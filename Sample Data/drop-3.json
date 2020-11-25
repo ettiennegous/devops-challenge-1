@@ -15,11 +15,20 @@
           "price": 149,
           "location": "Oakleigh",
           "qty": 5
+        },
+        {
+          "sku": "0095452",
+          "description": "Wall Art 2400 x 1200 x 3mm Pumice Matt Wet Area Wall / Shower Panel",
+          "category": "Our Range > Flooring > Tiles > Wall Tiles",
+          "price": 198,
+          "location": "Oakleigh",
+          "qty": 1
         }
+
       ], 
       "transmissionsummary": {
         "id": "967a48c2-5674-4be8-aa0b-999f6a47dd0f",
-        "recordcount": 2, 
-        "qtysum": 6
+        "recordcount": 3, 
+        "qtysum": 7
       }
 }
