@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+          "sku": "6200354",
+          "description": "Bosch Blue 800W Professional Corded Rotary Drill With 6 Piece Accessory Kit",
+          "category": "Our Range > Tools > Power Tools > Drills > Rotary Hammer Drills",
+          "price": 349,
+          "location": "Artarmon",
+          "qty": 10
+        },
+        {
+          "sku": "6240318",
+          "description": "Makita 185mm 1200W Corded Circular Saw",
+          "category": "Our Range > Tools > Power Tools > Power Saws > Circular Saws",
+          "price": 119,
+          "location": "Artarmon",
+          "qty": 6
+        },
+        {
+          "sku": "6240325",
+          "description": "Makita 18V 5.0Ah Lithium-Ion Battery With Gauge",
+          "category": "Our Range > Tools > Power Tools > Batteries & Chargers",
+          "price": 149,
+          "location": "Artarmon",
+          "qty": 4
+        },
+        {
+          "sku": "6210771",
+          "description": "Ryobi One+ 18V LED Torch - Skin Only",
+          "category": "Our Range > Tools > Power Tools > Worklights",
+          "price": 35,
+          "location": "Notting Hill",
+          "qty": 43
+        },
+        {
+          "sku": "6240365",
+          "description": "Makita LXT 7.2-18V Cordless Bluetooth Job Site Radio - Skin Only",
+          "category": "Our Range > Tools Power > Tools > Worksite Radios",
+          "price": 249,
+          "location": "Notting Hill",
+          "qty": 1
+        },
+        {
+          "sku": "6210741",
+          "description": "Ryobi One+ 18V Workshop Blower - Tool Only",
+          "category": "Our Range > Tools > Power Tools > Cordless Fans & Blowers",
+          "price": 89.98,
+          "location": "Oakleigh",
+          "qty": 7
+        }
+      ], 
+      "transmissionsummary": {
+        "id": "7d5883d6-fcc8-4c31-903c-510602712af4",
+        "recordcount": 6, 
+        "qtysum": 71
+      }
+}

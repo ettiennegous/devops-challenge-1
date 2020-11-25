@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+          "sku": "0062735",
+          "description": "90 x 19mm KD Select Grade Merbau Decking - Linear Metre",
+          "category": "Our Range > Building & Hardware > Timber > Decking",
+          "price": 5.90,
+          "location": "Artarmon",
+          "qty": 6
+        },
+        {
+          "sku": "0200087",
+          "description": "Swann 8 Camera 8 Channel 4K NVR Security System With 2TB HDD And 8 x 4K Spotlight IP Security Cameras",
+          "category": "Our Range > Building & Hardware > Security & Safety Products > Home Security Systems",
+          "price": 2099,
+          "location": "Artarmon",
+          "qty": 5
+        }
+      ], 
+      "transmissionsummary": {
+        "id": "e3087133-4e73-4728-8c81-c0ee86ecf54c",
+        "recordcount": 2, 
+        "qtysum": 13
+      }
+}

@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+          "sku": "5810610",
+          "description": "Bostitch 50 - 90mm 33 Degree Framing Nailer",
+          "category": "Our Range > Tools > Power Tools > Nail, Glue & Heat Guns",
+          "price": 329,
+          "location": "Artarmon",
+          "qty": 1
+        },
+        {
+          "sku": "6240083",
+          "description": "Makita 680W 13mm Hammer Drill",
+          "category": "Our Range > Tools > Power Tools > Drills",
+          "price": 149,
+          "location": "Oakleigh",
+          "qty": 5
+        }
+      ], 
+      "transmissionsummary": {
+        "id": "967a48c2-5674-4be8-aa0b-999f6a47dd0f",
+        "recordcount": 2, 
+        "qtysum": 6
+      }
+}
