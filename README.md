@@ -18,10 +18,10 @@ The below describes a problem statement, make sure to read all of the instructio
 
 
 ## Sample output
-Below is an example of the expected output from the running app with the 3 sample data files
-[drop-1.json](Sample Data/drop-1.json)  
-[drop-2.json](Sample Data/drop-2.json)  
-[drop-3.json](Sample Data/drop-3.json)  
+Below is an example of the expected output from the running app with the 3 sample data files  
+[drop-1.json](/sample-data/drop-1.json)  
+[drop-2.json](/sample-data/drop-2.json)  
+[drop-3.json](/sample-data/drop-3.json)  
 ```
 Processing drop-1.json
 Completed drop-1.json
@@ -59,7 +59,7 @@ Skipped drop-1.json
 - Use different containers for the app and db
 - Build your importer app using .NET Core
 - Ensure we can pass the folder names into the container
-- Sample data files can be [seen here](/Sample Data)
+- Sample data files can be [seen here](/sample-data)
 - Write a SQL query to calculate the stats
 
 ## Deliverables:
